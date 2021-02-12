@@ -38,3 +38,10 @@ _kits_
  #include<stdio.h>
  void main() 
  .[markdownsheet].(## inserting urlshttps://www.markdownguide.org/cheat-sheet/)
+ ## college website link
+ .[jntuk].(https://www.google.com/search?q=www.jntuk.com&oq=www.jntuk.com&aqs=chrome..5i44j69i57j0j0i30j0i8i30j0i8i10i30l2j0i8i30.9719j0j7&sourceid=chrome&ie=UTF-8)
+ ## gmail
+ .[gmail].(https://www.google.com/search?q=gmail.&oq=gmail.&aqs=chrome..69i57j69i61j69i65j69i61.11662j0j7&sourceid=chrome&ie=UTF-8)
+ ## git officiaL LINK
+ .[GIT].(http://git-scm.com/)
+ 
