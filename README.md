@@ -35,6 +35,6 @@ _kits_
   ```
   ### code
   ```c 
-  printf("hello world");
+  printf("hello world")
   ```
   
