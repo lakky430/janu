@@ -30,6 +30,7 @@ _kits_
        - eeea
        - eeeb
 ### code
-  `python
+  ```python
   print("hello")
+  ```
   `
