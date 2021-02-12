@@ -33,4 +33,8 @@ _kits_
   ```python
   print("hello")
   ```
+  ### code
+  ```c 
+  printf("hello world");
+  ```
   
