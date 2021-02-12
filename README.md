@@ -52,5 +52,5 @@ _kits_
   ![nature](https://raw.githubusercontent.com/lakky430/janu/master/lucky.webp)
   ![nature]()
   ## inserting videos
- .[![video].((https://img.youtube.com/vi/nAMNTR6rkRg/0.jpg).].(https://www.youtube.com/watch?v=nAMNTR6rkRg)
+ .[![video].(https://img.youtube.com/vi/nAMNTR6rkRg/0.jpg).].(https://www.youtube.com/watch?v=nAMNTR6rkRg)
  
