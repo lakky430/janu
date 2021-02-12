@@ -36,9 +36,5 @@ _kits_
   ### code
   ```c 
  #include<stdio.h>
- void main()
- {
- printf("hello");
- }
-  getch();
-  ```
+ void main() 
+ .[markdownsheet].(## inserting urlshttps://www.markdownguide.org/cheat-sheet/)
