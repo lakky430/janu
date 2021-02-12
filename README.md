@@ -47,5 +47,7 @@ _kits_
  ## Inserting images
  !.[nature]() ## Inserting images
   !.[nature](https://raw.githubusercontent.com/lakky430/janu/master/lucky.web)
+  ## Inserting images
+  ![nature](https://raw.githubusercontent.com/lakky430/janu/master/lucky.webp)
   
  
