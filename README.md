@@ -35,6 +35,9 @@ _kits_
   ```
   ### code
   ```c 
-  printf("hello world")
-  ```
+ #include<stdio.h>
+ void main()
+ {
+ printf("hello");
+ }
   
